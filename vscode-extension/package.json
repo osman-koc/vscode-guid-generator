@@ -2,6 +2,7 @@
   "name": "guidgenerator",
   "displayName": "GuidGenerator",
   "description": "Generate and insert GUIDs effortlessly into your code using a simple shortcut.",
+  "license": "SEE LICENSE IN LICENSE",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.81.0"
@@ -9,6 +10,7 @@
   "categories": [
     "Other"
   ],
+  "publisher": "kocdev",
   "author": {
     "name": "Osman Koc",
     "email": "info@osmkoc.com"
