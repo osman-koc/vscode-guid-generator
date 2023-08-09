@@ -3,7 +3,7 @@
   "displayName": "GuidGenerator",
   "description": "Generate and insert GUIDs effortlessly into your code using a simple shortcut.",
   "license": "SEE LICENSE IN LICENSE",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -33,7 +33,7 @@
     {
       "command": "extension.generateGuid",
       "key": "ctrl+alt+g",
-      "mac": "cmd+alt+g",
+      "mac": "cmd+option+g",
       "when": "editorTextFocus"
     }
   ],
