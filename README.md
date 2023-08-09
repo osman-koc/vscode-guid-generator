@@ -4,8 +4,8 @@ This repository contains Visual Studio and Visual Studio Code extensions for gen
 
 ## Table of Contents
 
-- [VS Code Extension](./vscode/README.md)
-- [Visual Studio Extension](./vs/README.md)
+- [VS Code Extension](./vscode-extension/README.md)
+- [Visual Studio Extension](./vs-extension/README.md)
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
@@ -19,8 +19,8 @@ The Guid Generator Extensions provide a convenient way to generate and insert gl
 
 Please refer to the individual README files for each extension:
 
-- [VS Code Extension README](./vscode/README.md)
-- [Visual Studio Extension README](./vs/README.md)
+- [VS Code Extension README](./vscode-extension/README.md)
+- [Visual Studio Extension README](./vs-extension/README.md)
 
 ## Contributing
 
