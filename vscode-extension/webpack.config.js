@@ -46,7 +46,7 @@ const extensionConfig = {
       patterns: [
         {
           from: 'src/images',
-          to: 'images' // İstediğiniz bir alt klasör belirleyebilirsiniz
+          to: 'images'
         }
       ]
     })
