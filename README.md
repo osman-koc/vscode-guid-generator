@@ -1,4 +1,4 @@
-# Guid Generator Extensions
+# Guid Generator Extension
 
 This repository contains Visual Studio and Visual Studio Code extensions for generating and inserting unique GUIDs effortlessly.
 
