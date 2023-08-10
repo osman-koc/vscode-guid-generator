@@ -1,32 +1,51 @@
-# Guid Generator Extension
+# GuidGenerator - Visual Studio Code Extension
 
-This repository contains Visual Studio and Visual Studio Code extensions for generating and inserting unique GUIDs effortlessly.
+Generate and insert GUIDs (uuid) effortlessly into your code using a simple shortcut.
 
-## Table of Contents
+![Extension View](src/images/view.gif)
 
-- [VS Code Extension](./vscode-extension/README.md)
-- [Visual Studio Extension](./vs-extension/README.md)
-- [About](#about)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+## Features
 
-## About
+- Quickly generate and insert GUIDs into your code.
+- Streamline your workflow with a convenient keyboard shortcut.
+- You can use in multiple line.
 
-The Guid Generator Extensions provide a convenient way to generate and insert globally unique identifiers (GUIDs) into your code, making it easier to manage and reference different elements within your projects.
+## Requirements
 
-## Getting Started
+- [Visual Studio Code](https://code.visualstudio.com)
 
-Please refer to the individual README files for each extension:
+## Installation
 
-- [VS Code Extension README](./vscode-extension/README.md)
-- [Visual Studio Extension README](./vs-extension/README.md)
+1. Launch Visual Studio Code.
+2. Go to the Extensions view by clicking on the square icon in the sidebar or pressing `Ctrl+Shift+X`.
+3. Search for "GuidGenerator" and click Install.
+
+## Settings
+
+1. Go to keyboard shortcuts on VS Code (`Ctrl+K+S`)
+    a. Windows: File > Preferences > Keyboard Shortcuts
+    b. macOS: Code > Settings > Keyboard  Shortcuts
+2. Find `extension.generateGuid` and set custom shortcut
+
+## Usage
+
+1. Open a file in which you want to insert a GUID.
+2. Place your cursor at the desired insertion point.
+3. Press `Ctrl+Alt+G` (or your custom shortcut) to generate and insert a new GUID.
+
+## Visual Studio Extension
+
+Those who use Visual Studio can see this plugin made for Visual Studio with the plugin here.
+- [VS Guid Generator Extension](https://github.com/vs-guid-generator)
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to either of the extensions, please follow the guidelines in the respective README files.
+Contributions are welcome! Please fork this repository and submit pull requests.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
+---
+
+**Enjoy!**
