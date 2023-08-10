@@ -1,19 +1,9 @@
 {
   "name": "guidgenerator",
-  "displayName": "GuidGenerator",
+  "displayName": "Guid Generator (uuid)",
   "description": "Generate and insert GUIDs effortlessly into your code using a simple shortcut.",
-  "license": "SEE LICENSE IN LICENSE.txt",
-  "version": "0.0.2",
-	"galleryBanner": {
-		"color": "#C80000",
-		"theme": "dark"
-	},
-  "engines": {
-    "vscode": "^1.81.0"
-  },
-  "categories": [
-    "Other"
-  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "version": "0.0.3",
   "publisher": "kocdev",
   "author": {
     "name": "Osman Koc",
@@ -23,15 +13,42 @@
     "type": "git",
     "url": "https://github.com/osman-koc/guid-generator-extension"
   },
-  "activationEvents": [],
+  "bugs": {
+    "url": "https://github.com/osman-koc/guid-generator-extension/issues"
+  },
+	"galleryBanner": {
+		"color": "#C80000",
+		"theme": "dark"
+	},
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Other",
+    "Snippets"
+  ],
+  "keywords": [
+    "GUID",
+    "UUID"
+  ],
   "main": "./dist/extension.js",
+  "activationEvents": [],
   "contributes": {
     "commands": [
       {
         "command": "extension.generateGuid",
         "title": "Generate GUID"
       }
-    ]
+    ],
+    "menus": {
+      "editor/context": [
+        {
+          "when": "editorTextFocus",
+          "command": "extension.generateGuid",
+          "group": "guidgenerator"
+        }
+      ]
+    }
   },
   "keybindings": [
     {
