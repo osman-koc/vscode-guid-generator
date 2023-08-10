@@ -7,7 +7,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.3] - 2023-08-09
 ## Updated
 - Keybindings fix
-- Update README.md
 
 ## [0.0.2] - 2023-08-09
 ## Updated
