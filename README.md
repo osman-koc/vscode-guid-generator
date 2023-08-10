@@ -23,8 +23,8 @@ Generate and insert GUIDs (uuid) effortlessly into your code using a simple shor
 ## Settings
 
 1. Go to keyboard shortcuts on VS Code (`Ctrl+K+S`)
-    a. Windows: File > Preferences > Keyboard Shortcuts
-    b. macOS: Code > Settings > Keyboard  Shortcuts
+    - Windows: File > Preferences > Keyboard Shortcuts
+    - macOS: Code > Settings > Keyboard  Shortcuts
 2. Find `extension.generateGuid` and set custom shortcut
 
 ## Usage
