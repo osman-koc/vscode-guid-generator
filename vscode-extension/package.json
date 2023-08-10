@@ -1,6 +1,6 @@
 {
   "name": "guidgenerator",
-  "displayName": "Guid Generator (uuid)",
+  "displayName": "GuidGenerator",
   "description": "Generate and insert GUIDs effortlessly into your code using a simple shortcut.",
   "license": "SEE LICENSE IN LICENSE",
   "version": "0.0.3",
