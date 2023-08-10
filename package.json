@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/osman-koc/guid-generator-extension"
+    "url": "https://github.com/osman-koc/vscode-guid-generator"
   },
   "bugs": {
-    "url": "https://github.com/osman-koc/guid-generator-extension/issues"
+    "url": "https://github.com/osman-koc/vscode-guid-generator/issues"
   },
 	"galleryBanner": {
 		"color": "#C80000",
