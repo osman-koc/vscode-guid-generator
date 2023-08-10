@@ -31,16 +31,6 @@ This extension contributes the following setting:
 
 - `extension.guidgenerator.enable`: Enable/disable this extension.
 
-## Known Issues
-
-No known issues.
-
-## Release Notes
-
-### 0.0.1
-
-- Initial release of GuidGenerator extension.
-
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests.
