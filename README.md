@@ -20,6 +20,7 @@ Generate and insert GUIDs (uuid) effortlessly into your code using a simple shor
 1. Launch Visual Studio Code.
 2. Go to the Extensions view by clicking on the square icon in the sidebar or pressing `Ctrl+Shift+X`.
 3. Search for "GuidGenerator" and click Install.
+- [Marketplace](https://marketplace.visualstudio.com/items?itemName=kocdev.guidgenerator)
 
 ## Settings
 
