@@ -4,7 +4,11 @@ All notable changes to the "guidgenerator" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [0.0.3] - 2023-08-09
+## [0.0.4] - 2023-08-11
+## Updated
+- Edited to generate different ids in multiple line feature
+
+## [0.0.3] - 2023-08-10
 ## Updated
 - Fixed Keybindings
 - Added right click menu action

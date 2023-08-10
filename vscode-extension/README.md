@@ -2,7 +2,7 @@
 
 Generate and insert GUIDs effortlessly into your code using a simple shortcut.
 
-![GUID Generation](images/view.gif)
+![GUID Generation](src/images/view.gif)
 
 ## Features
 

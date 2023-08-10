@@ -2,11 +2,11 @@ import * as vscode from 'vscode';
 
 export function activate(context: vscode.ExtensionContext) {
     let disposable = vscode.commands.registerCommand('extension.generateGuid', () => {
-        const newGuid = generateGuid();
         const editor = vscode.window.activeTextEditor;
         if (editor) {
             editor.edit(editBuilder => {
                 editor.selections.forEach(selection => {
+                    const newGuid = generateGuid();
                     editBuilder.insert(selection.active, newGuid);
                 });
             });
