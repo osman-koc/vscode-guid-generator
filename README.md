@@ -9,7 +9,7 @@ Generate and insert GUIDs (uuid) effortlessly into your code using a simple shor
 
 - Quickly generate and insert GUIDs into your code.
 - Streamline your workflow with a convenient keyboard shortcut.
-- You can use in multiple line.
+- You can use in multiple lines.
 
 ## Requirements
 
