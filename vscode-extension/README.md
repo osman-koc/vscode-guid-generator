@@ -2,7 +2,7 @@
 
 Generate and insert GUIDs effortlessly into your code using a simple shortcut.
 
-![GUID Generation](images/guid-generation.gif)
+![GUID Generation](images/view.gif)
 
 ## Features
 
@@ -21,9 +21,9 @@ Generate and insert GUIDs effortlessly into your code using a simple shortcut.
 
 ## Settings
 
-1. Go to keyboard shortcuts on VS Code
-    a. Windows: File > Preferences > Keyboard Shortcuts (`Ctrl+K+S`)
-    b. macOS: Code > Settings > Keyboard  Shortcuts (`cmd+K+S`)
+1. Go to keyboard shortcuts on VS Code (`Ctrl+K+S`)
+    a. Windows: File > Preferences > Keyboard Shortcuts
+    b. macOS: Code > Settings > Keyboard  Shortcuts
 2. Find `extension.generateGuid` and set custom shortcut
 
 ## Usage
