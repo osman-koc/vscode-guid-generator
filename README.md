@@ -2,7 +2,7 @@
 
 Generate and insert GUIDs (uuid) effortlessly into your code using a simple shortcut.
 
-![Extension View](src/images/view.gif)
+![Extension View](src/images/preview.gif)
 ![Extension Right Click Menu](src/images/right-click-menu.jpg)
 
 ## Features
