@@ -6,7 +6,9 @@ export function activate(context: vscode.ExtensionContext) {
         const editor = vscode.window.activeTextEditor;
         if (editor) {
             editor.edit(editBuilder => {
-                editBuilder.insert(editor.selection.active, newGuid);
+                editor.selections.forEach(selection => {
+                    editBuilder.insert(selection.active, newGuid);
+                });
             });
         }
     });

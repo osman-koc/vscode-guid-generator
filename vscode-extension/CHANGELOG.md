@@ -9,6 +9,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Fixed Keybindings
 - Added right click menu action
 - Text to upper case
+- Added multiple line support
 
 ## [0.0.2] - 2023-08-09
 ## Updated
