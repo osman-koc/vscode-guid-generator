@@ -4,7 +4,11 @@ All notable changes to the "guidgenerator" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [0.0.4] - 2023-08-11
+## [0.0.6] - 2023-08-11
+## Added
+- Added extension icon
+
+## [0.0.4] - 2023-08-10
 ## Updated
 - Edited to generate different ids in multiple line feature
 
