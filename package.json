@@ -3,7 +3,8 @@
   "displayName": "GuidGenerator (uuid)",
   "description": "Generate and insert GUIDs effortlessly into your code using a simple shortcut.",
   "license": "SEE LICENSE IN LICENSE",
-  "version": "0.0.5",
+  "icon": "icon.png",
+  "version": "0.0.6",
   "publisher": "kocdev",
   "author": {
     "name": "Osman Koc",
