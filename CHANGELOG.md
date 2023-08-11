@@ -6,23 +6,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.0.6] - 2023-08-11
 ### Added
-- Added extension icon
-
-## [0.0.4] - 2023-08-10
-### Updated
-- Edited to generate different ids in multiple line feature
-
-## [0.0.3] - 2023-08-10
-### Updated
 - Fixed Keybindings
 - Added right click menu action
 - Text to upper case
 - Added multiple line support
+- Edited to generate different ids in multiple line feature
+- Added extension icon
 
-## [0.0.2] - 2023-08-09
-### Updated
-- Minor fixes
-
-## [0.0.1] - 2023-08-09
+## [0.0.5] - 2023-08-09
 ### Added
-- Initial release of GuidGenerator extension.
+- First published.
