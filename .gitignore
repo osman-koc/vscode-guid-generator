@@ -10,3 +10,4 @@ node_modules/
 *.db
 .DS_Store
 Thumbs.db
+package-lock.json
